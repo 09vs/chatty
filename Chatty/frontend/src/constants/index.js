@@ -1,4 +1,4 @@
- export const THEMES = [
+  export const THEMES = [
   "light",
   "dark",
   "cupcake",
@@ -16,7 +16,7 @@
   "lofi",
   "pastel",
   "fantasy",
-  "wireframe",
+  "wireframe", 
   "black",
   "luxury",
   "dracula",
