@@ -5,7 +5,7 @@
   "bumblebee",
   "emerald",
   "corporate",
-  "synthwave", 
+  "synthwave",  
   "retro",
   "cyberpunk",
   "valentine",
