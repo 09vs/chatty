@@ -2,7 +2,7 @@
   "light",
   "dark",
   "cupcake",
-  "bumblebee", 
+  "bumblebee",  
   "emerald",
   "corporate",
   "synthwave",    
