@@ -3,7 +3,7 @@
   "dark",
   "cupcake",
   "bumblebee",  
-  "emerald",
+  "emerald", 
   "corporate",
   "synthwave",    
   "retro",
